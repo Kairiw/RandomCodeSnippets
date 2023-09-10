@@ -1,2 +1,3 @@
 # RandomCodeSnippets
-Random code snippets from projects or work.
+
+Random code I've written over the years, either for personal projects or things related to work
