@@ -34,7 +34,7 @@ def check_updates():
                 num = line.split(' ')[1] 
         print("Pending updates: {}".format(num))
         return num
-    except CalledProcessError:
+    except subprocess.CalledProcessError:
         print("Update error")
         return False
     except:
